@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTINF:-1, Основной поток (Локальный)
+#EXTINF:-1, Local stream
 http://mexanicus.hopto.org:8000/cube-cinema.ts
-#EXTINF:-1, Резервный поток (Глобальный)
+#EXTINF:-1, Global stream
 http://mexanicus.zapto.org:8000/cube-cinema.ts
